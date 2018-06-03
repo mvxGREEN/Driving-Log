@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "459283794862",
+    "firebase_url": "https://drivekeeper-b4426.firebaseio.com",
+    "project_id": "drivekeeper-b4426",
+    "storage_bucket": "drivekeeper-b4426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459283794862:android:5b5f3c6c3a3b928d",
+        "android_client_info": {
+          "package_name": "com.xxxgreen.mvx.drivekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459283794862-pksra02q0ge1trj5reuce54u5p2hm6mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXNM7lWc-egSElF56W8UcxQORtEoHcfPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
